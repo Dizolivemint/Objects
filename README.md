@@ -1,4 +1,4 @@
-# Objects
+# Vue OMS
 > Object Management System for dynamically storing and retrieving objects
 
 [![Build Status][travis-image]][travis-url]
