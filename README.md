@@ -3,7 +3,7 @@
 
 [![Build Status][travis-image]][travis-url]
 
-Similar to using custom fields with WordPress, except the field can be any object.
+Vue graphical user interface for creating MongoDB documents.
 
 ![](header.png)
 

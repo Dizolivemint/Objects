@@ -9,8 +9,8 @@ var dynamicObjectSchema = mongoose.Schema({
 });
 
 var DynamicObject = mongoose.model(
-  "DynamicObject",
-  dynamicObjectSchema,
-  "things"
+  'DynamicObject',
+  dynamicObjectSchema
 );
+
 module.exports = { DynamicObject };
